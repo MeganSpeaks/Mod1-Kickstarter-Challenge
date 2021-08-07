@@ -9,9 +9,7 @@
 	Through this analysis, I hope to provide insight to the trends of sucessful campaigns to provide guidance to Louise for future kickstarters.
 
 ## Analysis and Challenges
-	For this challenge, we formulated the data to view what relationships, if any, exist between launch dates and their outcomes and theater funding goals and their outcomes. Visuals were created for each of these comparisons.  
-
-[Kickstarter_Challenge.xlsx](/Kickstarter_Challenge.xlsx.xlsx)
+	For this challenge, we formulated the data to view what relationships, if any, exist between launch dates and their outcomes and theater funding goals and their outcomes. Visuals were created for each of these comparisons.  My Excel file is located in the zip file.
 
 ### Analysis of Outcomes Based on Launch Date
 
