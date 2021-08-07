@@ -6,7 +6,7 @@
 
 ### Purpose
 
-	Through this analysis, I hope to provide insight to the trends of sucessful campaigns to provide guidance for future kickstarters.
+	Through this analysis, I hope to provide insight to the trends of sucessful campaigns to provide guidance to Louise for future kickstarters.
 
 ## Analysis and Challenges
 
