@@ -2,8 +2,7 @@
 
 ## Overview of Project
 
-	The goal of this project is to discover how different campaigns fared in relation to their launch dates and their funding goals.  
-I have gathered campaign outcomes based on these parameters.  Included are graphs displaying these relationships.
+	The goal of this project is to discover how different campaigns fared in relation to their launch dates and their funding goals. I have gathered campaign outcomes based on these parameters.  Included are graphs displaying these relationships.
 
 ### Purpose
 
