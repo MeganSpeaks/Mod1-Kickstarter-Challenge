@@ -13,8 +13,8 @@
 ### Analysis of Outcomes Based on Launch Date
 
 As you can see from the below visual, we see the following trends:
--The late Spring and early Summer months yield the most successful outcomes.
--Winter months yield the fewest successful outcomes.
+- The late Spring and early Summer months yield the most successful outcomes.
+- Winter months yield the fewest successful outcomes.
 
 ![Theater Outcomes vs Launch](/Theater_Outcomes_vs_Launch.png)
 
