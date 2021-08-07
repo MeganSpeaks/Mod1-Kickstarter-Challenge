@@ -16,7 +16,7 @@
 
 ### Analysis of Outcomes Based on Goals
 
-![Outcomes vs Goals]/(Outcomes_vs_Goals)
+![Outcomes vs Goals]/(Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
