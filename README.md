@@ -16,6 +16,8 @@
 
 ### Analysis of Outcomes Based on Goals
 
+This visual shows that the data for failed and sucessful outcomes based on goals are reflections of each other over a horizontal axis between y= 40% and y = 50%.
+
 ![Outcomes vs Goals](/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
