@@ -12,7 +12,10 @@
 
 ### Analysis of Outcomes Based on Launch Date
 
+![Theater Outcomes vs Launch](https://Theater_Outcomes_vs_Launch)
 ### Analysis of Outcomes Based on Goals
+
+![Outcomes vs Goals] (http://Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
